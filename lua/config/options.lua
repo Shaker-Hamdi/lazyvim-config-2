@@ -5,3 +5,4 @@
 -- vim.opt.wrapmargin = 4
 -- vim.opt.colorcolumn = "80"
 vim.opt.wrap = true
+vim.opt.formatoptions = "jqlnt"
